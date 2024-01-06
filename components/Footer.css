@@ -1,0 +1,21 @@
+/* Footer.css */
+.footer {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .social-icons a {
+    color: rgb(0, 0, 0);
+    margin: 0 10px;
+    font-size: 24px;
+    text-decoration: none;
+  }
+  
+  .social-icons a:hover {
+    color: rgb(227, 0, 144); 
+  }
+  
