@@ -20,3 +20,13 @@ Before running the application, make sure you have the following installed:
 - Node.js
 - npm (Node Package Manager)
 
+
+# Navigate to the project directory
+cd E-Commerce
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+
