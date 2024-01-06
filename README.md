@@ -22,7 +22,7 @@ Before running the application, make sure you have the following installed:
 
 
 # Navigate to the project directory
-cd E-Commerce
+cd Ecommerce
 
 # Install dependencies
 npm install
